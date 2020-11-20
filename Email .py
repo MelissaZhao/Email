@@ -18,7 +18,6 @@ print ("read data...")
 with open ("Email.json")as read_file:
     sender = json.load(read_file)
     
-sender_address = "email.sender489@gmail.com"
 receiver_address = "melissay.chao@gmail.com"
 subject = "Python email test"
 
