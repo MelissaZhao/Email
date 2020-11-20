@@ -6,6 +6,6 @@
 
 **Then to construct object of MIMEMultipart.**
 
-**Subsequently, add Email messages, html and images.**
+**Subsequently to add Email messages, html and images.**
 
-**Finnaly, send to Email.**
+**Finnaly to send out the Email.**
