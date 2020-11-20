@@ -14,7 +14,6 @@ from email import encoders
 
 
 # Set the parameters required by smtplib
-# Send to multipal receivers
 print ("read data...")
 with open ("Email.json")as read_file:
     sender = json.load(read_file)
